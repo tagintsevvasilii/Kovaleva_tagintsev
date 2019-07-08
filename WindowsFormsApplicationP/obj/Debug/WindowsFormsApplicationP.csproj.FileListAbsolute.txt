@@ -1,0 +1,9 @@
+C:\Users\Валерия\Desktop\граФИКА\лаб5\WindowsFormsApplicationP\WindowsFormsApplicationP\bin\Debug\WindowsFormsApplicationP.exe.config
+C:\Users\Валерия\Desktop\граФИКА\лаб5\WindowsFormsApplicationP\WindowsFormsApplicationP\bin\Debug\WindowsFormsApplicationP.exe
+C:\Users\Валерия\Desktop\граФИКА\лаб5\WindowsFormsApplicationP\WindowsFormsApplicationP\bin\Debug\WindowsFormsApplicationP.pdb
+C:\Users\Валерия\Desktop\граФИКА\лаб5\WindowsFormsApplicationP\WindowsFormsApplicationP\obj\Debug\WindowsFormsApplicationP.csprojResolveAssemblyReference.cache
+C:\Users\Валерия\Desktop\граФИКА\лаб5\WindowsFormsApplicationP\WindowsFormsApplicationP\obj\Debug\WindowsFormsApplicationP.Form1.resources
+C:\Users\Валерия\Desktop\граФИКА\лаб5\WindowsFormsApplicationP\WindowsFormsApplicationP\obj\Debug\WindowsFormsApplicationP.Properties.Resources.resources
+C:\Users\Валерия\Desktop\граФИКА\лаб5\WindowsFormsApplicationP\WindowsFormsApplicationP\obj\Debug\WindowsFormsApplicationP.csproj.GenerateResource.Cache
+C:\Users\Валерия\Desktop\граФИКА\лаб5\WindowsFormsApplicationP\WindowsFormsApplicationP\obj\Debug\WindowsFormsApplicationP.exe
+C:\Users\Валерия\Desktop\граФИКА\лаб5\WindowsFormsApplicationP\WindowsFormsApplicationP\obj\Debug\WindowsFormsApplicationP.pdb
